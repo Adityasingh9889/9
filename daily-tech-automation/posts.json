@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "cloud-001",
+      "title": "Cloud Tip: Least Privilege",
+      "body": "Give cloud identities only the permissions they actually need. Start narrow, review access regularly, and remove unused permissions.",
+      "tags": ["cloud", "security", "aws"]
+    },
+    {
+      "id": "network-001",
+      "title": "Networking Tip: DNS",
+      "body": "DNS translates human-readable domain names into IP addresses. When troubleshooting connectivity, checking DNS resolution is often a useful early step.",
+      "tags": ["networking", "ccna", "dns"]
+    },
+    {
+      "id": "linux-001",
+      "title": "Linux Tip: Logs",
+      "body": "Logs are one of the fastest ways to understand what a Linux service is doing. Learn to identify the relevant service and inspect its recent log entries before changing configuration.",
+      "tags": ["linux", "devops"]
+    },
+    {
+      "id": "security-001",
+      "title": "Security Tip: MFA",
+      "body": "Multi-factor authentication adds another verification factor beyond a password. Enable it on important accounts and keep recovery methods protected.",
+      "tags": ["cybersecurity", "security"]
+    }
+  ]
+}
